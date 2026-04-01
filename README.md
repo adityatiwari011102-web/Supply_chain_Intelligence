@@ -51,11 +51,11 @@ Data Cleaning → Feature Engineering → Dashboard Development → Insights →
   <tr>
     <td width="50%">
       <p align="center"><b>Executive Overview</b></p>
-      <img src="Executive_Overview.png" width="100%">
+      <img src="D:\download\Chrome\Project_2\supply_chain-project\Executive_Overview.png" width="100%">
     </td>
     <td width="50%">
       <p align="center"><b>Inventory Intelligence</b></p>
-      <img src="Inventory_Intelligence.png" width="100%">
+      <img src="D:\download\Chrome\Project_2\supply_chain-project\Inventory_Intelligence.png" width="100%">
     </td>
   </tr>
 </table>
