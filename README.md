@@ -61,5 +61,7 @@ Data Cleaning → Feature Engineering → Dashboard Development → Insights →
 </table>
 
 ---
+<img src="images/Executive_Overview.png" width="300">
+---
 
 ## 📁 Repository Structure
