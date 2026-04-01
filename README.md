@@ -44,8 +44,10 @@ Data Cleaning → Feature Engineering → Dashboard Development → Insights →
 ---
 
 ## 📊 Dashboard Preview
-![Executive Overview](images/Executive_Overview.png)
-![Inventory Intelligence](images/Inventory_Intelligence.png)
+
+![Executive Overview](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/Executive_Overview.png)
+
+![Inventory Intelligence](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/Inventory_Intelligence.png)
 
 ---
 
