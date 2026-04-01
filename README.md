@@ -45,8 +45,6 @@ Data Cleaning → Feature Engineering → Dashboard Development → Insights →
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Preview
-
 <table>
   <tr>
     <td width="50%">
@@ -60,8 +58,6 @@ Data Cleaning → Feature Engineering → Dashboard Development → Insights →
   </tr>
 </table>
 
----
-<img src="Executive_Overview.png" width="300">
 ---
 
 ## 📁 Repository Structure
