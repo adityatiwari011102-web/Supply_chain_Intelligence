@@ -50,12 +50,12 @@ Data Cleaning → Feature Engineering → Dashboard Development → Insights →
 <table>
   <tr>
     <td width="50%">
-      <p align="center"><b>Executive Overview</b></p>
+      <p align="center"><b>Executive_Overview</b></p>
       <img src="Executive_Overview.png" width="100%">
     </td>
     <td width="50%">
-      <p align="center"><b>Inventory Intelligence</b></p>
-      <img src="D:\download\Inventory_Intelligence.png" width="100%">
+      <p align="center"><b>Inventory_Intelligence</b></p>
+      <img src="Inventory_Intelligence.png" width="100%">
     </td>
   </tr>
 </table>
