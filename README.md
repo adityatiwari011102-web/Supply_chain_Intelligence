@@ -45,21 +45,8 @@ Data Cleaning → Feature Engineering → Dashboard Development → Insights →
 
 ## 📊 Dashboard Preview
 
-<table>
-  <tr>
-    <td width="50%">
-      <p align="center"><b>Executive Overview</b></p>
-      <img src="Executive_Overview.png" alt="Executive Overview" width="100%">
-    </td>
-    <td width="100%">
-      <p align="center"><b>Inventory_Intelligence</b></p>
-      <img src="Inventory_Intelligence.png" alt="Inventory_Intelligence" width="100%">
-    </td>
-  </tr>
-</table>
-
 ---
-Executive Overview
+### Executive Overview
 ![image alt](https://github.com/adityatiwari011102-web/Supply_chain_Intelligence/blob/05b0cbde1c51095e961b94f7f7a8da33630406f8/Executive_Overview.png)
 
 
