@@ -77,6 +77,14 @@ This project demonstrates how data-driven insights can improve supply chain effi
 
 ---
 
+## 📄 Project Report
+
+A comprehensive report covering data cleaning, analysis, insights, and business recommendations.
+
+🔗 [Click here to view the full report](report/project_report.pdf)
+
+---
+
 ## 📁 Repository Structure
 
 📦 supply-chain-intelligence-dashboard
