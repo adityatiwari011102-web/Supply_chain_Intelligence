@@ -81,8 +81,7 @@ This project demonstrates how data-driven insights can improve supply chain effi
 
 A comprehensive report covering data cleaning, analysis, insights, and business recommendations.
 
-![Report](https://github.com/adityatiwari011102web/Supply_chain_Intelligence/blob/def5c2d0000670fb27c70a8880edc9d10568a4df/Supply_Chain_Intelligence_Project_Report.pdf)
-
+👉 [View Full Report](https://github.com/adityatiwari011102-web/Supply_chain_Intelligence/blob/def5c2d0000670fb27c70a8880edc9d10568a4df/Supply_Chain_Intelligence_Project_Report.pdf)
 ---
 
 ## 📁 Repository Structure
